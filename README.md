@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 claude-ai-workers
+# 🤖 Claude Code Conductor 
 
 **Run Gemini, Codex, and Qwen inside Claude Code — and get back clean JSON every time.**
 
