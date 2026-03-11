@@ -33,7 +33,7 @@ qwen auth
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/claude-ai-workers.git
+git clone https://github.com/saketkattu/claude-ai-workers.git
 cd claude-ai-workers
 bash install.sh
 ```
